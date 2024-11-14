@@ -1,0 +1,88 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/image/bg/rumahfuji.jpg");
+    background-size: cover ;
+}
+
+.intro {
+    height: 250px;
+    display: flex;
+    justify-content: end ;
+    align-items: end;
+}
+
+.Modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Modal-body {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    letter-spacing: 1px;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    letter-spacing: 4px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/image/bg/sunrise.jpg");
+    background-size: cover ;
+
+}
+
+/* .animeWrapper {
+
+} */
+
+.animeImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.image {
+    height: 500px;
+}
+
+.Big3 {
+    height: auto;
+    background: url("../assets//image/bg/rumahsakura.jpg");
+    background-size: cover;
+}
+
+.footer {
+    height: auto;
+    background-color: #333;
+}
+
+.text-footer {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: small;
+    font-weight: 100;
+}
+
+.img-div {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+}
+
+
+
+.img-footer {
+    height: 50px;
+}
